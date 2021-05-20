@@ -1,7 +1,7 @@
 {
-  "name": "wiring-pi",
-  "version": "2.2.1",
-  "description": "Bindings to wiringPi",
+  "name": "wiring-oragenpi-zero",
+  "version": "0.0.1",
+  "description": "Bindings to wiringOP for OrangePi",
   "main": "lib/exports.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,18 +9,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:WiringPi/WiringPi-Node.git"
+    "url": "git@github.com:Rodricity/wiring-oragenpi-zero.git"
   },
   "keywords": [
-    "wiringPi",
+    "wiringOP",
     "gpio",
-    "raspberry",
-    "pi",
-    "raspberrypi",
-    "bcm2835"
+    "orangepi"
   ],
-  "author": "Igor Soarez <igorsoarez@gmail.com>",
+  "author": "Rodrigo Arias <rodrigo.arias.tapia@gmail.com>",
   "contributors": [
+    "Igor Soarez <igorsoarez@gmail.com>",
     "Leandre Gohy <leandre.gohy@hexeo.be>",
     "Eugene Ware <eugene@noblesamurai.com>"
   ],
